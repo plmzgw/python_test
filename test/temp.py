@@ -8,7 +8,8 @@ def myfun1(n):
 
 def myfun2():
 	ll=[1, 2]
-	print(ll[3])
+	print(ll[1])
+        return True
 
 if __name__=='__main__':
 	result = myfun1(10)
